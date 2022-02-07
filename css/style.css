@@ -1,0 +1,28 @@
+body {
+  font: 20px Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #585858;
+  color: white;
+}
+
+.quem-somos {
+  background-color: black;
+  color: white;
+}
+
+.margin {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.cultos {
+  background-color: black;
+  color: white;
+}
+
+.bg-footer {
+  background-color: black;
+  color: white;
+}
